@@ -1,0 +1,14 @@
+{
+    "name": "anjan/aws-tools",
+    "description": "Amazon AWS Tools",
+    "type": "project",
+    "require": {
+        "aws/aws-sdk-php": "^3.38"
+    },
+    "authors": [
+        {
+            "name": "Anjan Kumar",
+            "email": "anjnkmr@gmail.com"
+        }
+    ]
+}

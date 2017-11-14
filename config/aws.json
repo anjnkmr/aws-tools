@@ -1,0 +1,18 @@
+{
+    "source": {
+        "region": "us-east-2",
+        "credentials": {
+            "key": "IAM_ACCESS_KEY",
+            "secret": "IAM_SECRET"
+        },
+        "version": "latest"           
+    },
+    "destination": {
+        "region": "us-east-2",
+        "credentials": {
+            "key": "IAM_ACCESS_KEY",
+            "secret": "IAM_SECRET"
+        },
+        "version": "latest"           
+    }
+}
